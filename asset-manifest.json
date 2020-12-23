@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/poncey-website/static/css/main.d90ef5dc.chunk.css",
-    "main.js": "/poncey-website/static/js/main.d79b9f0c.chunk.js",
-    "main.js.map": "/poncey-website/static/js/main.d79b9f0c.chunk.js.map",
+    "main.css": "/poncey-website/static/css/main.2a33e931.chunk.css",
+    "main.js": "/poncey-website/static/js/main.0fdbf568.chunk.js",
+    "main.js.map": "/poncey-website/static/js/main.0fdbf568.chunk.js.map",
     "runtime-main.js": "/poncey-website/static/js/runtime-main.37ac645d.js",
     "runtime-main.js.map": "/poncey-website/static/js/runtime-main.37ac645d.js.map",
-    "static/js/2.62c07a1c.chunk.js": "/poncey-website/static/js/2.62c07a1c.chunk.js",
-    "static/js/2.62c07a1c.chunk.js.map": "/poncey-website/static/js/2.62c07a1c.chunk.js.map",
+    "static/js/2.448b8b74.chunk.js": "/poncey-website/static/js/2.448b8b74.chunk.js",
+    "static/js/2.448b8b74.chunk.js.map": "/poncey-website/static/js/2.448b8b74.chunk.js.map",
     "static/js/3.1b056994.chunk.js": "/poncey-website/static/js/3.1b056994.chunk.js",
     "static/js/3.1b056994.chunk.js.map": "/poncey-website/static/js/3.1b056994.chunk.js.map",
     "index.html": "/poncey-website/index.html",
-    "static/css/main.d90ef5dc.chunk.css.map": "/poncey-website/static/css/main.d90ef5dc.chunk.css.map",
-    "static/js/2.62c07a1c.chunk.js.LICENSE.txt": "/poncey-website/static/js/2.62c07a1c.chunk.js.LICENSE.txt"
+    "static/css/main.2a33e931.chunk.css.map": "/poncey-website/static/css/main.2a33e931.chunk.css.map",
+    "static/js/2.448b8b74.chunk.js.LICENSE.txt": "/poncey-website/static/js/2.448b8b74.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.37ac645d.js",
-    "static/js/2.62c07a1c.chunk.js",
-    "static/css/main.d90ef5dc.chunk.css",
-    "static/js/main.d79b9f0c.chunk.js"
+    "static/js/2.448b8b74.chunk.js",
+    "static/css/main.2a33e931.chunk.css",
+    "static/js/main.0fdbf568.chunk.js"
   ]
 }
