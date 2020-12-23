@@ -1,1 +1,16 @@
+body {
+	background-color: #31c6e8;
+	font-family: monospace;
+}
 
+a {
+	color: #000;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	opacity: 0.75;
+}
